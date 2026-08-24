@@ -192,6 +192,7 @@ M-xxxxx-video-task-status
 
 | 日期 | 需求编号 | 业务端 | 需求名称 | 需求类型 | PRD |
 |---|---|---|---|---|---|
+| 2026-08-24 | M-37214 | 美工 | 店铺ASIN及系统SKU取数逻辑与AI生图统一 | 规则、数据 | https://github.com/xuqiang97/ai-video-prd-hub/blob/main/prd/2026-08/M-37214-asin-sku-product-data-alignment/README.md |
 | 2026-08-24 | M-37202 | 美工 | LinkFox图转视频建任务接口升级V3 | 接口 | https://github.com/xuqiang97/ai-video-prd-hub/blob/main/prd/2026-08/M-37202-linkfox-image-to-video-v3/README.md |
 | 2026-08-23 | M-37201 | 美工 | 视频提示词配置化及维护接口 | 配置、接口、规则 | https://github.com/xuqiang97/ai-video-prd-hub/blob/main/prd/2026-08/M-37201-video-prompt-config-api/README.md |
 
